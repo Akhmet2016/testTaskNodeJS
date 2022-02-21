@@ -1,0 +1,16 @@
+{
+  "name": "testTaskNodeJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Akhmet Novruzov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  }
+}
